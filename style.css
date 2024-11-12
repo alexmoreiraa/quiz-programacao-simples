@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+   margin: 0;
+   padding: 0;
+   background-color: #C5D7D9 ;
+   font-family: "Saira Condensed", sans-serif;
+   
+}
+header{
+   height: 4%;
+   background-color: #013440;
+   margin: 5rem;
+   border-radius: 5px;
+}
+
+h1{
+   font-size: 80px;
+   text-align: center;
+   padding: 1rem;
+   color: #E0FFFF;
+}
+
+header p{
+   text-align: center;
+   font-size: 35px;
+   padding: 1rem;
+   color: #E0FFFF;
+}
+
+main{
+   display: flex;
+   flex-direction: column;
+   margin: 5rem;
+   background-color:#E0FFFF;
+   border-radius: 5px;
+   }
+
+   h2 {
+      background-color:#f4ddc0;
+      padding: 1rem;
+      
+   }
+.sec2 input{
+   border: none;
+   background-color:#f4ddc0 ;
+}
+.sec3 input{
+   border: none;
+   background-color:#f4ddc0 ;
+}
+.sec4 input{
+   border: none;
+   background-color:#f4ddc0 ;
+}
+.sec6 input{
+   background-color: #f4ddc0;
+}
+.sec8 img {
+   background-color: #FFFFFF;
+  border-radius: 5px;
+   
+}
+.sec8 input{
+   border: none;
+   background-color: #f4ddc0;
+}
+table{
+   background-color: #f4ddc0;
+}
+tbody{
+   background-color: #C5D7D9;
+}
+tfoot{
+   text-align: center;
+}
+.sec10 input,textarea{
+   border: none;
+background-color: #f4ddc0;
+}
+footer{
+   background-color: #013440;
+   color: #C5D7D9;
+   text-align: center;
+   padding: 10px;
+   margin: 5rem;
+   border-radius: 5px;
+}
